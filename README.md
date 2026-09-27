@@ -1,5 +1,5 @@
 # Password Security Checker
-
+The program’s messages are displayed in Polish
 A beginner-friendly Python program that checks a password against five basic criteria:
 
 - At least 10 characters
